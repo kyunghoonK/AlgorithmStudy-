@@ -19,3 +19,4 @@ if __name__ == '__main__':
         x[i] = int(input(f'x[{i}]값을 입력하세요. : '))
     
     print(f'최댓값은 {max_of(x)}입니다.')
+    
